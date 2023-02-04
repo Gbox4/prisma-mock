@@ -1,5 +1,5 @@
 {
-  "name": "prisma-mock",
+  "name": "@Gbox4/prisma-mock",
   "version": "0.2.1",
   "description": "Mock prisma for unit testing database",
   "main": "lib/index.js",
